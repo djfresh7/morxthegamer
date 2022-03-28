@@ -1,0 +1,2 @@
+I'm a simple yet fun Telegram Bot made by @☆DJ-Fresh™ ✓. Send /start to use me! To see the list of all my commands, send /cmds.
+NB: This bot is no longer a work in progress, but it is still in development. Please contact @☆DJ-Fresh™ ✓ before adding it to external groups/channels or for bugs/issues that need to be fixed.

@@ -1,0 +1,47 @@
+All the avaliable commands for the DJ-Fresh Utilities Bot:
+
+Interface Commands:
+/start - Starts the bot.
+/stop - Stops the bot.
+/commands - Show this message.
+/shortlinks - Shows you info about short file urls when uploading files to the bot.
+
+Statistics Commands:
+/covid19stats - Gives you a link to the latest covid 19 stats website.
+/bbsongcharts - Gives you a link to the latest billboard song chart lists.
+/topsubreddits - Gives you a link to the daily top subreddits on reddit.
+/memecmdstats - Shows you all the links to the memes used in the meme commands.
+
+Fun Commands:
+/meme - Shows you a meme...You'll love this command.
+/rick - Shows you a image of rick. You'll also love this command.
+/morx - Shows you an image of MorxTheGamer & a link to his YouTube channel.
+/memevid - Shows you a meme video (its a short one).
+/toastvid - Shows you video of a man making a toast.
+/rickroll - You should know what this command will do.
+/wake - Sends a wake sticker.
+/jump - Sends a jumping sticker.
+/ktype - Sends an audio of someone typing on a keyboard.
+/burp - Sends an audio of someone burping (don't use this).
+/random - Generates a completely random number.
+/currtime - Tells the current time.
+
+Custom Commands:
+/say (text) - Replies with what you want you to say.
+/randnum (first num, second num) - Generates a random number from the two numbers you sent. The limit is 1000.
+/spam, /morespam, /evenmorespam (text, amount) - The bot sends the given text times the given amount. The limit is 100k.
+/evorod (num) - Checks if the number you sent is even or odd.
+/ytvideo (video link) - Downloads the youtube video from the link you provided. Warning!! Don't send links to videos that are over 50MB otherwise the bot will give you an error & won't send you the video.
+/ytaudio (video link) - Downloads the youtube video's audio from the link you provided. Warning!! Don't send links to videos that are over 50MB otherwise the bot will give you an error & won't send you the audio from the video.
+/save (text) - Saves the text that you have specified & gives you a key.
+/open (key) - Opens the text you that you previously saved, using your key.
+/edit (key, text) - Edits the text by using your key & replaces the old text with the new text.
+/del (key) - Deletes your saved text using your key.
+
+NB: When editing your text, please remember to copy the old text and then edit it to the new text. If you don't do this, then the old text that you previously saved will be deleted, and only your new text will be saved. Also, please remember your key when you get it, if you forget your key, then you will not be able to open your text. Lastly, don't use a key that isn't yours when opening your file, cause it will won't open your file.
+
+Stock Commands:
+/price (stock) - Tells the price of the stock mentioned (yahoo finance).
+/stks - Tells you the stocks and their prices (yahoo finance).
+
+NB: Make sure to use '/' before every command!

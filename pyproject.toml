@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "mytelegrambot"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pyTelegramBotAPI = "^3.8.1"
+Pillow = "^8.3.1"
+requests = "^2.26.0"
+download = "^0.3.5"
+telegram = "^0.0.1"
+yfinance = "^0.1.63"
+pyshorteners = "^1.0.1"
+responses = "^0.13.3"
+python-telegram-bot = "^13.7"
+pyttsx = "^1.1"
+Flask = "^2.0.1"
+pytube = "^11.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
