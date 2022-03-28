@@ -1,0 +1,12 @@
+How to use the bot's commands:
+
+Basic Commands:
+/start - Starts the bot
+/help - Shows this message.
+/subjects - Shows you all the subjects that you can get links for.
+
+Information Commands:
+/getlink <subject> - Gets the meeting link for the specified subject.
+/getinfo <subject> - Gets the meeting ID and Password for the specified subject.
+/getplatform <subject> - Gets the platform that the specified subject takes place on.
+/schedule <day> - Gets the timetable schedule for the specified day.
