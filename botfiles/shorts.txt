@@ -1,7 +1,0 @@
-@djfresh_utilities_bot | Shortened Links
-
-Whenever you send a Video, Photo, Document or Audio, the bot will send you a shortened link of that file, and whenever you click it, you can download back that same file using that link. So if you delete a file off your phone that you sent to the bot, you can always download back that file by using the link that the bot sent you. So if you need it in the future, you can save that link and you will always be able to download back that file.
-
-NB: You can also save your file's link using the bot's /save command aswell. Lastly, try not to send any really large files, unless the bot won't send you the shortened link.
-
-Want to get your own link? Send a Document, File, Video or Audio to the bot to get started!
